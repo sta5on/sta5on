@@ -5,6 +5,8 @@
 
 🌱 I’m 20 years old, currently studying in State University of Moldova
 
+новый абзац
+
 # Области интересов
 1. Computer Science
 2. Backend Development
@@ -18,7 +20,7 @@
 3. Go
 
 ## Их же изучаю
-- Java 
+- Java
 - Python
 - Go
 
