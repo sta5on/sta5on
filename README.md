@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @sta5on
-
-- 🌱 I’m 20 years old, currently studying in State University of Moldova
-
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=sta5on&theme=dark&hide_border=true)<br/>
